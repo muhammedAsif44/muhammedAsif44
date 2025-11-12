@@ -1,16 +1,16 @@
-💼 Muhammed Asif | MERN Stack Developer
+ Muhammed Asif | MERN Stack Developer
 
-🚀 Passionate Full Stack Developer specializing in building high-performance, scalable web applications using React, Node.js, Express, and TypeScript.
+ Passionate Full Stack Developer specializing in building high-performance, scalable web applications using React, Node.js, Express, and TypeScript.
 Focused on clean architecture, modular design, and efficient problem-solving.
 
-🧠 Tech Stack
+ Tech Stack
 
 Frontend: React.js, Redux Toolkit, Zustand, TypeScript, Tailwind CSS, ShadCN/UI
 Backend: Node.js, Express.js, REST APIs, MongoDB, Mongoose, Socket.io
 Tools: Git, GitHub, VS Code, Postman, Docker (basic), Vite
 Currently Exploring: Modular backend architecture, microservices, and clean code principles.
 
-🔥 Featured Projects
+ Featured Projects
 👟 Shoe E-Commerce Platform
 
 React + Tailwind CSS + Node.js + Express + MongoDB
